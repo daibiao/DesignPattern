@@ -1,4 +1,4 @@
-package com.neusoft.simplefactory;
+package com.neusoft.factory.simplefactory;
 
 public class Test {
 	public static void main(String[] args) {

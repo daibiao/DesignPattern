@@ -1,4 +1,4 @@
-package com.neusoft.simplefactory;
+package com.neusoft.factory.simplefactory;
 /**
  * 简单工厂模式（简单静态工厂模式）：
  * 建立一个工厂类，对实现了同一接口的一些类进行实例的创建。
